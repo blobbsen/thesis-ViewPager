@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ViewPagerTest</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_page_view">ViewPagerTest</string>
+    
+   <string name="action_settings">Settings</string>
+   <string name="username">User Name</string>
+   <string name="password">Password</string>
+   <string name="Login">Send</string>
+   
+   <string name="userAndPwDialog">User: </string>
+   <string name="onlyUserDialog">Please enter the \"Password\".</string>
+   <string name="onlyPwDialog">Please enter the \"User Name\".</string>
+   <string name="nothingDialog">Please enter a \"User Name\" and its \"Password\".</string>
+   
+   <string name="image_view_description">Picture of a galaxy taken by the hubble telescope</string>
+
+</resources>
